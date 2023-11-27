@@ -41,20 +41,6 @@ Besides this README.md file, the following files are included:
 
    All these files should be stored in the same directory as the Jupyter notebook file.
 
-### Additional files:
-
-In addition, the following files are included:
-- pdf version of the Jupyter notebook: EIACD-Assignment_2-Group_Media_K_notebook_PDF.pdf
-- decision trees generated when running the code:
-		- Decision_tree-albums_imbalanced dataset.pdf
-		- Decision_tree-albums_imbalanced dataset (.dot)
-		- Decision_tree-albums dataset.pdf
-		- Decision_tree-albums dataset (.dot)
-
-- pdf version of the slides of Powerpoint presentation: EIACD_Assignment_2_Group_Media_K.pdf
-
-We include the pdf version of the Notebook because there may be some formatting lost when the notebook is transferred to another computer (due to the use of formatted output) and opened in Jupyter Notebook. In this process some formatted text may be lost.
-
 To visualize the output in full extent and quality requires the Notebook to be run locally in the new computer. Except for the cross validation with a grid search for several parameters, which takes a few minutes to run, all the remaining cells run in acceptable execution time. 
 
 May 24, 2023
